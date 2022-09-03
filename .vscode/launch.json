@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch example09",
+            "request": "launch",
+            "mainClass": "javatutorial.lesson09.example09",
+            "projectName": "code_demo"
+        },
+        {
+            "type": "java",
+            "name": "Launch lesson01App",
+            "request": "launch",
+            "mainClass": "javatutorial.lesson01.lesson01App",
+            "projectName": "code_demo"
+        },
+        {
+            "type": "java",
             "name": "Launch Current File",
             "request": "launch",
             "mainClass": "${file}"
